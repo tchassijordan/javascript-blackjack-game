@@ -1,5 +1,9 @@
 # Black Jack Game
-This is a simple but efficient implementation of the famous black Jack game using javascript. The game template is created with html and styling was done using css.
+Heyo, this is my version of the famous black jack game. I brought this game to life using javascript. The game template/markups is created with html and css to add styling and personality to it.
+
+---
+
+## Preview
 
 <img src="./images/blackjack.png" alt="game preview">
 
@@ -7,8 +11,8 @@ This is a simple but efficient implementation of the famous black Jack game usin
 
 ## Motivation & Resources
 
-- Building web apps
-- Here the <a href="https://scrimba.com/playlist/pkrr5S9">Scrimba Course</a> that guided me while I built this web app.
+- Building web games. 
+- This <a href="https://scrimba.com/playlist/pkrr5S9">Scrimba Course</a> guided me while I built this web app. I recommend you try it out too, you'll definitely love it😉. 
 
 ---
 
