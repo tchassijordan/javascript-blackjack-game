@@ -1,7 +1,7 @@
 # Black Jack Game
 This is a simple but efficient implementation of the famous black Jack game using javascript. The game template is created with html and styling was done using css.
 
-<img src="./images/blackjack.png" alt="game preview">
+<img src="./docs/images/blackjack.png" alt="game preview">
 
 ---
 
