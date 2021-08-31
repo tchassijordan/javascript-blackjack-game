@@ -3,6 +3,14 @@ Heyo, this is my version of the famous black jack game. I brought this game to l
 
 Click <a href="http://ijordan.tech/javascript-blackjack-game/">Here</a> to play blackjack game
 
+#### Rules 
+On start player draws 2 random cards
+
+If player's cards sum up to 24 then he has blackjack and has won. On the contrary if a player's cards sum up to a number greater than 24 then the player is out of the game and has loss.
+
+While the player's cards sum up to a number less than 24, the player is called to draw a new card.
+
+
 ---
 
 ## Preview
