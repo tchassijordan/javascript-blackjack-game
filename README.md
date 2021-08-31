@@ -1,6 +1,8 @@
 # Black Jack Game
 Heyo, this is my version of the famous black jack game. I brought this game to life using javascript. The game template/markups is created with html and css to add styling and personality to it.
 
+Click <a href="http://ijordan.tech/javascript-blackjack-game/">Here</a> to play blackjack game
+
 ---
 
 ## Preview
